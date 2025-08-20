@@ -43,4 +43,4 @@ ggdiagram() +
   connect(from = L, to = Y, linewidth = 1.5, arc_bend = -.4)
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+<img src="README_files/figure-gfm/unnamed-chunk-2-1.png" width="672" />

@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 
 # ggdiagram-dag
 
-```{r, fig.asp=1.1}
+```{r, fig.asp=1.1, fig.retina=3}
 library(ggdiagram)
 
 ggdiagram() +
